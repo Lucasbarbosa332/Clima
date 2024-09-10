@@ -1,7 +1,7 @@
 # Clima
 Mini sistema com consumo de API
 
-Este projeto não contem deploy e não contem git, então para executar voce tera que baixar o arquivo zip extrai no seus arquivos e abrir em algun IDE assim podemdo executalo 
+📂 Este projeto não contem deploy e não contem git, então para executar voce tera que baixar o arquivo zip extrai no seus arquivos e abrir em algun IDE assim podemdo executalo 
 estou trabalhano no deploy para melhor compartilhamneto 
 
 # Projeto: Sistema de Clima em Python 🌦️
@@ -13,7 +13,7 @@ requests: Para fazer chamadas HTTP à API do OpenWeather e obter dados meteorol�
 pytz: Para lidar com fusos horários e ajustar as informações de tempo de acordo com o local.
 pycountry_convert: Para converter códigos de países em continentes e facilitar a exibição de informações geográficas.
 
-# Funcionalidades
+# Funcionalidades 📌
  
  Consulta de Clima: O usuário pode inserir o nome de uma cidade e obter informações detalhadas sobre o clima atual, incluindo:
 
@@ -33,7 +33,7 @@ Tarde (12:00 - 18:00): Imagem do sol à tarde e fundo amarelado.
 Noite (18:00 - 00:00): Imagem da lua e fundo escuro.
 Madrugada (00:00 - 6:00): Imagem da lua e fundo escuro.
 
-# Tecnologias Utilizadas
+# Tecnologias Utilizadas 🔙 🔚
 
 API OpenWeather: Fornece dados em tempo real sobre o clima e condições meteorológicas para qualquer cidade do mundo.
 Biblioteca requests: Facilitadora de chamadas HTTP para interagir com a API.
@@ -41,7 +41,7 @@ Biblioteca pytz: Gerencia fusos horários para garantir que a hora local exibida
 Biblioteca pycountry_convert: Converte códigos de países em nomes e continentes para uma exibição mais rica de informações geográficas.
 Biblioteca PIL (Pillow): Manipula e exibe imagens no aplicativo.
 
-# Interface do Usuário
+# Interface do Usuário 📱 
 
 A interface é construída com a biblioteca tkinter, proporcionando um layout simples e funcional:
 
@@ -50,7 +50,7 @@ Botão "Ver clima": Dispara a consulta e atualiza as informações exibidas.
 Labels Informativos: Exibem a cidade, data e hora local, umidade, pressão, velocidade do vento e descrição do clima.
 Imagem Dinâmica: Mostra uma imagem representativa do período do dia, baseada no horário local da cidade consultada.
 
-# Funcionamento
+# Funcionamento 🔧
 
 O usuário insere o nome da cidade e clica no botão "Ver clima".
 O sistema faz uma chamada à API do OpenWeather para obter dados climáticos.
