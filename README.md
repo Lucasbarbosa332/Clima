@@ -4,7 +4,7 @@ Mini sistema com consumo de API
 Este projeto não contem deploy e não contem git, então para executar voce tera que baixar o arquivo zip extrai no seus arquivos e abrir em algun IDE assim podemdo executalo 
 estou trabalhano no deploy para melhor compartilhamneto 
 
-# Projeto: Sistema de Clima em Python
+# Projeto: Sistema de Clima em Python 🌦️
 
 Descrição do Projeto
 O projeto é um sistema de clima desenvolvido em Python, que utiliza a API do OpenWeather para fornecer informações meteorológicas em tempo real. O sistema integra várias bibliotecas Python para oferecer uma experiência rica e dinâmica ao usuário. As principais bibliotecas usadas são:
