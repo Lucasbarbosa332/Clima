@@ -1,8 +1,13 @@
 # Clima
-Mini sistema com consumo de API
+
+# Mini sistema com consumo de API
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 📂 Este projeto não contem deploy e não contem git, então para executar voce tera que baixar o arquivo zip extrai no seus arquivos e abrir em algun IDE assim podemdo executalo 
 estou trabalhano no deploy para melhor compartilhamneto 
+
+
 
 # Projeto: Sistema de Clima em Python 🌦️
 
@@ -33,6 +38,8 @@ Tarde (12:00 - 18:00): Imagem do sol à tarde e fundo amarelado.
 Noite (18:00 - 00:00): Imagem da lua e fundo escuro.
 Madrugada (00:00 - 6:00): Imagem da lua e fundo escuro.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 # Tecnologias Utilizadas 🔙 🔚
 
 API OpenWeather: Fornece dados em tempo real sobre o clima e condições meteorológicas para qualquer cidade do mundo.
@@ -40,6 +47,10 @@ Biblioteca requests: Facilitadora de chamadas HTTP para interagir com a API.
 Biblioteca pytz: Gerencia fusos horários para garantir que a hora local exibida seja precisa.
 Biblioteca pycountry_convert: Converte códigos de países em nomes e continentes para uma exibição mais rica de informações geográficas.
 Biblioteca PIL (Pillow): Manipula e exibe imagens no aplicativo.
+
+<img width=100% src=""></img>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Interface do Usuário 📱 
 
@@ -49,6 +60,10 @@ Campo de Entrada: Permite ao usuário digitar o nome da cidade para consulta.
 Botão "Ver clima": Dispara a consulta e atualiza as informações exibidas.
 Labels Informativos: Exibem a cidade, data e hora local, umidade, pressão, velocidade do vento e descrição do clima.
 Imagem Dinâmica: Mostra uma imagem representativa do período do dia, baseada no horário local da cidade consultada.
+
+<img width=100% src=""></img>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Funcionamento 🔧
 
