@@ -26,7 +26,7 @@ Umidade: Percentual de umidade no ar.
 Velocidade do Vento: Medida em metros por segundo.
 Descrição do Tempo: Condições meteorológicas descritas em texto.
 
-# Troca Dinâmica de Imagem e Fundo: O sistema altera a imagem e o fundo da interface com base no horário local da cidade consultada. As imagens e fundos representam diferentes períodos do dia:
+ Troca Dinâmica de Imagem e Fundo: O sistema altera a imagem e o fundo da interface com base no horário local da cidade consultada. As imagens e fundos representam diferentes períodos do dia:
 
 Manhã (6:00 - 12:00): Imagem do sol durante o dia e fundo claro.
 Tarde (12:00 - 18:00): Imagem do sol à tarde e fundo amarelado.
