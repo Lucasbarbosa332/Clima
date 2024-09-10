@@ -61,7 +61,7 @@ Botão "Ver clima": Dispara a consulta e atualiza as informações exibidas.
 Labels Informativos: Exibem a cidade, data e hora local, umidade, pressão, velocidade do vento e descrição do clima.
 Imagem Dinâmica: Mostra uma imagem representativa do período do dia, baseada no horário local da cidade consultada.
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Clima/blob/main/Captura%20de%20tela%202024-09-10%20001659.png"></img>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
