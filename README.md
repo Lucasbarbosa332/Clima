@@ -48,7 +48,7 @@ Biblioteca pytz: Gerencia fusos horários para garantir que a hora local exibida
 Biblioteca pycountry_convert: Converte códigos de países em nomes e continentes para uma exibição mais rica de informações geográficas.
 Biblioteca PIL (Pillow): Manipula e exibe imagens no aplicativo.
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Clima/blob/main/Captura%20de%20tela%202024-09-10%20001554.png"></img>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
