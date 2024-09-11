@@ -4,10 +4,7 @@
 
 ![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-📂 Este projeto não contem deploy e não contem git, então para executar voce tera que baixar o arquivo zip extrai no seus arquivos e abrir em algun IDE assim podemdo executalo 
-
-
-
+ Este projeto não contem deploy e não contem git, então para executar voce tera que baixar o arquivo zip extrai no seus arquivos e abrir em algun IDE assim podemdo executalo  📂
 
 # Projeto: Sistema de Clima em Python 🌦️
 
@@ -71,3 +68,17 @@ O usuário insere o nome da cidade e clica no botão "Ver clima".
 O sistema faz uma chamada à API do OpenWeather para obter dados climáticos.
 O sistema ajusta a hora local e o fundo da interface de acordo com o horário local da cidade.
 Atualiza a interface com as informações meteorológicas e a imagem apropriada para o período do dia.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+# Como baixar  e executara o arquivo 📥
+Primeiro baixe o arquivo zip em seu computador depois extraia o arquivo em alguma pasta de sua preferemcia 
+depois para executalo voce pode baixar um IDE Exemplo VSCODE depois voce pode instalar o python direto pelo vs code 
+apos a intalção voce ira abrir o arquivo zip no vs code, e no terminal voce ira baixar as bibliotecas necessarias para o arquivo funcionar 
+que são 
+📚  pycountry_convert
+📚  PIL (Pillow)
+📚  pytz
+para baixar essas bibliotcas e so dar os seguintes comandos em seu terminal : pip install pycountry_convert | pip install Pillow | pip install pytz
+
+Pronto apos a instalção voce ja pode executar o projeto.
