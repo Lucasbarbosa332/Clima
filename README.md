@@ -79,6 +79,7 @@ que são
 * 📚  pycountry_convert
 * 📚  PIL (Pillow)
 * 📚  pytz
+
 para baixar essas bibliotcas e so dar os seguintes comandos em seu terminal : pip install pycountry_convert | pip install Pillow | pip install pytz
 
 Pronto apos a instalção voce ja pode executar o projeto.
