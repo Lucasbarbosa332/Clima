@@ -76,9 +76,9 @@ Primeiro baixe o arquivo zip em seu computador depois extraia o arquivo em algum
 depois para executalo voce pode baixar um IDE Exemplo VSCODE depois voce pode instalar o python direto pelo vs code 
 apos a intalção voce ira abrir o arquivo zip no vs code, e no terminal voce ira baixar as bibliotecas necessarias para o arquivo funcionar 
 que são 
-📚  pycountry_convert
-📚  PIL (Pillow)
-📚  pytz
+* 📚  pycountry_convert
+* 📚  PIL (Pillow)
+* 📚  pytz
 para baixar essas bibliotcas e so dar os seguintes comandos em seu terminal : pip install pycountry_convert | pip install Pillow | pip install pytz
 
 Pronto apos a instalção voce ja pode executar o projeto.
